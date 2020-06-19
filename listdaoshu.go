@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-
+//删除链表倒数节点
 type ListNode struct{
 	next *ListNode
 	key int
